@@ -1,0 +1,12 @@
+// 直接・間接を問わず依存先モジュールのハッシュを記録するためのファイルです
+
+// ============================================================
+// サンプル
+// module github.com/ryo-yamaoka/sample-lib
+
+// go 1.17
+
+// require github.com/ryo-yamaoka/direct-dependent-lib v0.0.2
+
+// require github.com/ryo-yamaoka/indirect-dependent-lib v0.0.4 // indirect
+// ===============================================================================
