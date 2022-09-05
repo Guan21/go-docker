@@ -21,3 +21,4 @@ jobs:
     - name: echo name
       run: |
         echo "::debug this activate"
+        echo "::debug make PR and push the working branch"
